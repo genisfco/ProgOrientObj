@@ -1,0 +1,52 @@
+.row{margin: 0px; padding-top: 0px;}
+
+
+#header .content{
+	background-color:black;
+	color: #FFF;
+}
+
+#central-form{
+	background-image:  url("../images/comic-heroes.jpg");
+	background-repeat: no-repeat; 
+	background-position: center;  
+	background-size: cover; 
+	position: absolute;
+	width: 100%; height: 100%;
+}
+
+#central-form .content{
+	margin-top: 5%;
+}
+
+#central-form form{
+	background:rgba(255,255,255, 0.2); 
+	display: block; 
+	padding: 10px; 
+	color: #FFF; 
+	text-align: justify;
+}
+
+#central-form .btn-outline-primary{
+	border-radius: 0px;
+}
+
+#central-form .input-container{
+	display: -ms-flexbox; 
+	display: flex; 
+	width: 100%; 
+	margin-bottom: 15px;
+}
+
+#central-form .form-control{
+	border-radius: 0px; 
+	width: 100%; 
+	padding-top: 10px; 
+	outline: none; 
+	padding-top: 22px; 
+	padding-bottom: 22px;
+}
+
+#central-form .form-control:focus{
+	border: 2px solid dodgerblue;
+}
