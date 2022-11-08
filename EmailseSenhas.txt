@@ -1,0 +1,16 @@
+Emails e senhas para logar as contas
+
+genis@etec.com
+789
+
+jose@etec.com
+321
+
+leal@etec.com
+123
+
+sara@etec.com
+890
+
+cleiton@etec.com
+abc
